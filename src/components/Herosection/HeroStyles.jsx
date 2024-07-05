@@ -26,7 +26,7 @@ export const HeroBg = styled.div`
   right: 0;
   bottom: 0;
   left: 0;
-  width: 100%;
+  width: 82%;
   height: 100%;
   max-width: 1360px;
   overflow: hidden;
