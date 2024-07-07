@@ -319,10 +319,9 @@ export const Bio = {
   export const projects = [
     {
       id: 9,
-      title: "Trackify",
-      date: "Jun 2023 - Jul 2023",
-      description:
-        "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      title: "MedicareHub",
+      date: "August 2023 - Jul 2024",
+      description:"The Medicare Hub system is a full-stack web application that optimizes healthcare appointment management. It features robust scheduling, real-time notifications, and data analytics capabilities, aimed at improving patient care coordination and operational efficiency for healthcare providers.",
       image:
         "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
       tags: [
