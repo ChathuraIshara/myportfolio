@@ -323,7 +323,7 @@ export const Bio = {
       date: "August 2023 - Jul 2024",
       description:"The Medicare Hub system is a full-stack web application that optimizes healthcare appointment management. It features robust scheduling, real-time notifications, and data analytics capabilities, aimed at improving patient care coordination and operational efficiency for healthcare providers.",
       image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/grocerry.png",
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/medicarehub1.png",
       tags: [
         "Azure",
         "Git",
