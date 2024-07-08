@@ -3,18 +3,17 @@ export const Bio = {
     roles: [
       "Full Stack Developer",
       "Android Developer",
-      "UI/UX Designer",
       "Programmer",
     ],
     description:
     "I am a driven and adaptable fullstack developer from Sri Lanka, always ready to embrace new challenges and continuously learn. My passion for coding and dedication to delivering high-quality results are complemented by a positive attitude and a growth mindset. I am committed to making meaningful contributions to any project I undertake, and I strive to achieve excellence in every endeavor.", 
     github: "https://github.com/ChathuraIshara",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+      "https://drive.google.com/file/d/1M2PAiZLcXqqVsNaxd5xvYIFpdUKkn7tU/view?usp=drive_link",
+    linkedin: "https://www.linkedin.com/in/chathura-ishara-480708271/",
+    twitter: "",
+    insta: "",
+    facebook: "https://web.facebook.com/ishara.athapaththu.3/",
   };
   
   export const skills = [
