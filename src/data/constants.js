@@ -334,6 +334,19 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/ChathuraIshara/StudentRegisterFullstackwebapp",
     },
+    {
+      id: 12,
+      title: "SmartNotes",
+      date: "Noc 2023 - Feb 202",
+      description:
+        "The Notes web application, built using ReactJS and Material-UI (MUI), allows users to easily add and categorize their notes. The intuitive interface ensures a smooth experience, making it simple to organize and manage important information and task",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/studentregister.png",
+      tags: ["ReactJs", "Asp.net", "MSSQL"],
+      category: "web app",
+      github: "https://github.com/ChathuraIshara/StudentRegisterFullstackwebapp",
+    },
+   
    
   ];
   
