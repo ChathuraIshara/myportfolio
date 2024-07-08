@@ -337,14 +337,15 @@ export const Bio = {
     {
       id: 12,
       title: "SmartNotes",
-      date: "Noc 2023 - Feb 202",
+      date: "Nov 2023 - Feb 202",
       description:
         "The Notes web application, built using ReactJS and Material-UI (MUI), allows users to easily add and categorize their notes. The intuitive interface ensures a smooth experience, making it simple to organize and manage important information and task",
       image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/studentregister.png",
-      tags: ["ReactJs", "Asp.net", "MSSQL"],
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ninjanotes.png",
+      tags: ["ReactJs", "MUI", "Vercel"],
       category: "web app",
-      github: "https://github.com/ChathuraIshara/StudentRegisterFullstackwebapp",
+      github: "https://github.com/ChathuraIshara/Notes_App_Frontend-React-js-and-MaterialUi-",
+       webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
     },
    
    
