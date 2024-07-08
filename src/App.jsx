@@ -43,9 +43,11 @@ function App() {
           <Wrapper>
             <Skills></Skills>
             <Experience></Experience>
-            <Education></Education>
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal}></Projects>
+          <Wrapper>
+            <Education />
+          </Wrapper>
         </Body>
       </Router>
     </ThemeProvider>
