@@ -270,6 +270,19 @@ export const Bio = {
       webapp: "https://medicare-hub-front-21j6.vercel.app"
     },
     {
+      id: 15,
+      title: "Edusity",
+      date: "July 2024 - July 2024",
+      description:
+        "Edusity is a fully responsive website crafted to showcase a university's comprehensive offerings. Developed using React and CSS, the website provides an engaging and user-friendly experience for prospective students, current students, faculty, and visitors. Edusity features detailed information about academic programs, campus facilities, faculty profiles, and student life. Its modern design and responsive capabilities ensure an optimal viewing experience on any device, from desktops to smartphones. The site reflects the university's commitment to accessibility and innovation, making it a vital resource for anyone seeking information about the institution.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/edusity.png",
+      tags: ["ReactJs", "Css", "Vercel"],
+      category: "web app",
+      github: "https://github.com/ChathuraIshara/Edusity",
+       webapp: "https://edusity-amber-ten.vercel.app/"
+    },
+    {
       id: 0,
       title: "SmartGrocery",
       date: "Jan 2022 - May 2022",
@@ -347,19 +360,7 @@ export const Bio = {
       github: "https://github.com/ChathuraIshara/Notes_App_Frontend-React-js-and-MaterialUi-",
        webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
     },
-    {
-      id: 15,
-      title: "Edusity",
-      date: "July 2024 - July 2024",
-      description:
-        "Edusity is a fully responsive website crafted to showcase a university's comprehensive offerings. Developed using React and CSS, the website provides an engaging and user-friendly experience for prospective students, current students, faculty, and visitors. Edusity features detailed information about academic programs, campus facilities, faculty profiles, and student life. Its modern design and responsive capabilities ensure an optimal viewing experience on any device, from desktops to smartphones. The site reflects the university's commitment to accessibility and innovation, making it a vital resource for anyone seeking information about the institution.",
-      image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ninjanotes.png",
-      tags: ["ReactJs", "MUI", "Vercel"],
-      category: "web app",
-      github: "https://github.com/ChathuraIshara/Notes_App_Frontend-React-js-and-MaterialUi-",
-       webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
-    },
+    
    
    
   ];
