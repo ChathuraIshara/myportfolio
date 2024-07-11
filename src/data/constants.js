@@ -337,9 +337,22 @@ export const Bio = {
     {
       id: 12,
       title: "SmartNotes",
-      date: "Nov 2023 - Feb 202",
+      date: "Nov 2023 - Feb 2024",
       description:
         "The Notes web application, built using ReactJS and Material-UI (MUI), allows users to easily add and categorize their notes. The intuitive interface ensures a smooth experience, making it simple to organize and manage important information and task",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ninjanotes.png",
+      tags: ["ReactJs", "MUI", "Vercel"],
+      category: "web app",
+      github: "https://github.com/ChathuraIshara/Notes_App_Frontend-React-js-and-MaterialUi-",
+       webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
+    },
+    {
+      id: 15,
+      title: "Edusity",
+      date: "July 2024 - July 2024",
+      description:
+        "Edusity is a fully responsive website crafted to showcase a university's comprehensive offerings. Developed using React and CSS, the website provides an engaging and user-friendly experience for prospective students, current students, faculty, and visitors. Edusity features detailed information about academic programs, campus facilities, faculty profiles, and student life. Its modern design and responsive capabilities ensure an optimal viewing experience on any device, from desktops to smartphones. The site reflects the university's commitment to accessibility and innovation, making it a vital resource for anyone seeking information about the institution.",
       image:
         "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ninjanotes.png",
       tags: ["ReactJs", "MUI", "Vercel"],
