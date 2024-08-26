@@ -283,6 +283,19 @@ export const Bio = {
        webapp: "https://edusity-amber-ten.vercel.app/"
     },
     {
+      id: 13,
+      title: "Foody",
+      date: "Aug 2024 - Aug 2024",
+      description:
+        "Foody is a fully responsive food delivery frontend webapp that offers features such as add-to-cart options, menu selection, item orders, and special offers, providing users with a seamless and enjoyable experience.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/fooddelivery.png",
+      tags: ["NextJs", "TailwindCss", "Vercel"],
+      category: "web app",
+      github: "https://github.com/ChathuraIshara/food-deliveryApp",
+       webapp: "https://food-delivery-app-flame.vercel.app/"
+    },
+    {
       id: 0,
       title: "SmartGrocery",
       date: "Jan 2022 - May 2022",
@@ -360,19 +373,7 @@ export const Bio = {
       github: "https://github.com/ChathuraIshara/Notes_App_Frontend-React-js-and-MaterialUi-",
        webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
     },
-    {
-      id: 13,
-      title: "Foody",
-      date: "Aug 2024 - Aug 2024",
-      description:
-        "Foody is a fully responsive food delivery frontend webapp that offers features such as add-to-cart options, menu selection, item orders, and special offers, providing users with a seamless and enjoyable experience.",
-      image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/fooddelivery.png",
-      tags: ["NextJs", "TailwindCss", "Vercel"],
-      category: "web app",
-      github: "https://github.com/ChathuraIshara/food-deliveryApp",
-       webapp: "https://food-delivery-app-flame.vercel.app/"
-    },
+   
     
     
    
