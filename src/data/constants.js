@@ -367,7 +367,7 @@ export const Bio = {
       description:
         "Foody is a fully responsive food delivery frontend webapp that offers features such as add-to-cart options, menu selection, item orders, and special offers, providing users with a seamless and enjoyable experience.",
       image:
-        "https://github.com/ChathuraIshara/myportfolio/blob/main/src/images/fooddelivery.png",
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/fooddelivery.png",
       tags: ["NextJs", "TailwindCss", "Vercel"],
       category: "web app",
       github: "https://github.com/ChathuraIshara/food-deliveryApp",
