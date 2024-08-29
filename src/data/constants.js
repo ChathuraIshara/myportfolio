@@ -270,6 +270,19 @@ export const Bio = {
       webapp: "https://medicare-hub-front-21j6.vercel.app"
     },
     {
+      id: 45,
+      title: "WeatherSnap",
+      date: "Aug 2024 - Aug 2024",
+      description:
+        "WeatherSnap is a fully responsive weather forecasting web app that provides comprehensive weather details using the OpenWeatherMap API. The app delivers real-time weather data, including temperature, humidity, wind speed, and more, presented in an intuitive and user-friendly interface. It's designed to work seamlessly across all devices, ensuring users can easily access accurate weather forecasts anytime, anywhere.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/weatherapp.png",
+      tags: ["NextJs", "TailwindCss", "Vercel","OpenWeatherMap"],
+      category: "web app",
+      github: "https://github.com/ChathuraIshara/weatherapp",
+       webapp: "https://weatherapp-blush-three.vercel.app/"
+    },
+    {
       id: 15,
       title: "Edusity",
       date: "July 2024 - July 2024",
