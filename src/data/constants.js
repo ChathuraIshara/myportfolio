@@ -287,13 +287,26 @@ export const Bio = {
       title: "myChat",
       date: "Jul 2024 - Aug 2024",
       description:
-        "myChat is a real-time webchat application powered by SignalR. This web app enables users to send and receive messages instantly, ensuring seamless communication. With a responsive design and real-time messaging capabilities, myChat offers a smooth and engaging user experience for all its users..",
+        "myChat is a real-time webchat application powered by SignalR. This web app enables users to send and receive messages instantly, ensuring seamless communication. With a responsive design and real-time messaging capabilities, myChat offers a smooth and engaging user experience for all its users.",
       image:
         "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/mychat2.png",
       tags: ["React Js", "TailwindCss", "Vercel","Azure","Asp.net","MaterialUi","SignalR","CI/CD","MSSQL"],
       category: "web app",
       github: "https://github.com/ChathuraIshara/myChat-frontend-",
        webapp: "https://mychat-seven-sandy.vercel.app/"
+    },
+    {
+      id: 48,
+      title: "doodle",
+      date: "June 2024 - Current",
+      description:
+        "doodle is a user-friendly drawing application similar to Excalidraw. It offers a range of drawing and writing functionalities, making it easy and efficient for users to create and collaborate on sketches, diagrams, and notes.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/doodle.png",
+      tags: ["Nextjs", "TailwindCss","Roughjs","Vercel","canvas"],
+      category: "web app",
+      github: "https://github.com/Ramosh99/doodle-js",
+       webapp: "https://doodle-js.vercel.app/"
     },
     {
       id: 15,
