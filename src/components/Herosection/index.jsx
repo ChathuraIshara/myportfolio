@@ -4,6 +4,7 @@ import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, Hero
 import HeroImg from '../../images/HeroImage3.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
+import cv from '../../images/cv3.svg'
 
 const HeroSection = () => {
     return (
@@ -28,7 +29,7 @@ const HeroSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
+                        <ResumeButton style={{display:'flex',justifyContent:'center',alignItems:'center'}} href={Bio.resume} target='display' >Check Resume</ResumeButton>
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
