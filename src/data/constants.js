@@ -147,9 +147,9 @@ export const Bio = {
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
         },
         {
-          name: "Netlify",
+          name: "Appwrite",
           image:
-            "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+            "https://appwrite.io/images/logos/appwrite.svg",
         },
         {
           name: "VS Code",
