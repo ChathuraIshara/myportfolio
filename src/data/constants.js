@@ -413,18 +413,60 @@ export const Bio = {
        webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
     },
     {
-      id: 12,
+      id: 13,
       title: "CyberStore",
       date: "Nov 2024 - Dec 2024",
       description:
         "CyberStore is a full-featured platform that allows customers to browse, search, and purchase products securely while providing admins with tools to manage inventory, process orders, and publish blogs. It includes advanced filters, detailed product pages, a shopping cart, and a secure checkout system. I contributed to this project as a **Frontend Developer and Frontend QA Developer**, implementing the **payment module using the PayHere gateway** and ensuring a smooth user experience.",
       image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ninjanotes.png",
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/cyberstore.png",
       tags: ["Next.js", "Spring Boot", "JWT","Docker","PostgreSQL","PayHere","Cypress","CI/CD"],
       category: "web app",
       github: "https://github.com/Team-DeltaX/ead-frontend.git",
       
     },
+    {
+      id: 13,
+      title: "JokesApp",
+      date: "Aug 2024 - Aug 2024",
+      description:
+        "A Flutter application that fetches and displays random jokes using a free jokes API. It implements a GET request to retrieve jokes, caches them using the shared_preferences package, displays cached jokes when offline, and properly handles JSON serialization/deserialization. Designed with a clean and responsive UI, MyJokesApp ensures users always have a dose of humor, even without an internet connection.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/jokesapp.png",
+      tags: ["Flutter", "Free Jokes Api"],
+      category: "android app",
+      github: "https://github.com/ChathuraIshara/myJokesApp.git",
+      
+    },
+    {
+      id: 14,
+      title: "Tranzo",
+      date: "Nov 2024 - Nov 2024",
+      description:
+        "A React Native mobile application that displays available vehicles along with their features and prices. It utilizes Context API for efficient state management and is fully responsive, ensuring a smooth and intuitive user experience across different devices.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/Tranzo.jpg",
+      tags: ["ReactNative", "Free Vehicle Api"],
+      category: "android app",
+      github: "https://github.com/ChathuraIshara/Tranzo.git",
+      
+    },
+    {
+      id: 15,
+      title: "Car Hub",
+      date: "Jan 2024 - present",
+      description:
+        "A fully responsive web application that provides detailed car information using a free API. It offers an intuitive interface for users to explore various car models, specifications, and features seamlessly.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/Carhub.png",
+      tags: ["Nextjs", "Tailwind", "Vercel","Free Rapid Api"],
+      category: "web app",
+      github: "https://github.com/ChathuraIshara/MORENT.git",
+      webapp: "https://morent-fawn.vercel.app/"
+      
+    },
+    
+    
     
     
    
