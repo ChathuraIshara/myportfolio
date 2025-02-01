@@ -412,7 +412,19 @@ export const Bio = {
       github: "https://github.com/ChathuraIshara/Notes_App_Frontend-React-js-and-MaterialUi-",
        webapp: "https://notes-app-frontend-react-js-and-material-9fish73dz.vercel.app/"
     },
-   
+    {
+      id: 12,
+      title: "CyberStore",
+      date: "Nov 2024 - Dec 2024",
+      description:
+        "CyberStore is a full-featured platform that allows customers to browse, search, and purchase products securely while providing admins with tools to manage inventory, process orders, and publish blogs. It includes advanced filters, detailed product pages, a shopping cart, and a secure checkout system. I contributed to this project as a **Frontend Developer and Frontend QA Developer**, implementing the **payment module using the PayHere gateway** and ensuring a smooth user experience.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ninjanotes.png",
+      tags: ["Next.js", "Spring Boot", "JWT","Docker","PostgreSQL","PayHere","Cypress","CI/CD"],
+      category: "web app",
+      github: "https://github.com/Team-DeltaX/ead-frontend.git",
+      
+    },
     
     
    
