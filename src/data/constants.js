@@ -535,7 +535,7 @@ export const Bio = {
       description:
         "The Ballerina HubSpot CRM Engagement Tasks Connector (ballerinax/hubspot.crm.engagement.tasks) enables seamless integration with the HubSpot Engagement Tasks API. It provides simplified functions to create, assign, and manage tasks, ensuring efficient task automation within your CRM.",
       image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/balleraina.jpeg",
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ballerina.jpeg",
       tags: ["Ballearina", "Api design"],
       category: "web app",
       github: "https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.engagements.tasksn", 
