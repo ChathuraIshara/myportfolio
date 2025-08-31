@@ -462,8 +462,19 @@ export const Bio = {
       tags: ["Nextjs", "Tailwind", "Vercel","Free Rapid Api"],
       category: "web app",
       github: "https://github.com/ChathuraIshara/MORENT.git",
-      webapp: "https://morent-fawn.vercel.app/"
-      
+      webapp: "https://morent-fawn.vercel.app/"   
+    },
+     {
+      id: 16,
+      title: "Siyoth Star",
+      date: "July 2025",
+      description:
+        "A fully responsive web application developed for the Siyothsaraniya Singing Competition, enabling users to seamlessly vote for their favorite singer competitors. It provides an intuitive interface with real-time updates, ensuring a smooth and engaging voting experience across all devices.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/SiyothStar.png",
+      tags: ["ReactJs", "Tailwind", "Vercel","Firebase","Cloudinary"],
+      category: "web app",
+      github: "https://github.com/harithaw/siyoth-sarani-vote-app", 
     },
     
     
