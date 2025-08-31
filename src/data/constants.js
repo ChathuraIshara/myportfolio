@@ -476,6 +476,18 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/harithaw/siyoth-sarani-vote-app", 
     },
+     {
+      id: 17,
+      title: "Laptop Price Predictor",
+      date: "July 2025",
+      description:
+        "A machine learning project that predicts laptop prices based on given specifications and features. It leverages the Random Forest algorithm to deliver accurate price estimations, providing users with valuable insights when evaluating different laptop configurations.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/laptoppricepredictor.png",
+      tags: ["HTML", "CSS", "Python","Flask"],
+      category: "machine learning",
+      github: "https://github.com/ChathuraIshara/Laptop-price-predictor", 
+    },
     
     
     
