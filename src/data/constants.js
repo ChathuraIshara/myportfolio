@@ -526,6 +526,7 @@ export const Bio = {
       image:
         "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/biweb.png",
       tags: ["Ballearina", "Nodejs", "Typescript"],
+      category: "web app",
       github: "https://github.com/ChathuraIshara/vscode-extensions/tree/bi-web-open", 
     },
      {
@@ -537,7 +538,6 @@ export const Bio = {
       image:
         "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ballerina.jpeg",
       tags: ["Ballearina", "Api design"],
-      category: "web app",
       github: "https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.engagements.tasksn", 
     },
     
