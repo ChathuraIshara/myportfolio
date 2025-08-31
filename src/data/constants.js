@@ -524,9 +524,21 @@ export const Bio = {
       description:
         "A web extension developed for Ballerina Integrator, a low-code editor for Ballerina integration. It enhances the development experience by providing seamless support for creating, editing, and managing integration workflows directly within the browser.",
       image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/biweb.jpeg",
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/biweb.png",
       tags: ["Ballearina", "Nodejs", "Typescript"],
       github: "https://github.com/ChathuraIshara/vscode-extensions/tree/bi-web-open", 
+    },
+     {
+      id: 18,
+      title: "Hubspot CRM Enagegement Tasks Connector(Ballerina)",
+      date: "FEb 2025 - March 2025",
+      description:
+        "The Ballerina HubSpot CRM Engagement Tasks Connector (ballerinax/hubspot.crm.engagement.tasks) enables seamless integration with the HubSpot Engagement Tasks API. It provides simplified functions to create, assign, and manage tasks, ensuring efficient task automation within your CRM.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/balleraina.jpeg",
+      tags: ["Ballearina", "Api design"],
+      category: "web app",
+      github: "https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.engagements.tasksn", 
     },
     
     
