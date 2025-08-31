@@ -181,6 +181,33 @@ export const Bio = {
   ];
   
   export const experiences = [
+     {
+      id: 1,
+      img: "https://lh5.googleusercontent.com/proxy/LcYZthkTkOuQw6QhwJvw3dLYSHCGoavDrbbWV2LDMsLEIPOt7yc0cTzeEOwTHezUSBVvJdkPwa1pTsTFZCcbf9vgiLU7M8VvmcNiLDMLqaeriy25Ask",
+      role: "Hubspot CRM Enagegement Tasks Connector(Ballerina)",
+      company: "WSO2",
+      date: "Feb 2025 - March 2025",
+      desc: "Worked on developing the Ballerina HubSpot CRM Engagement Tasks Connector (ballerinax/hubspot.crm.engagement.tasks), which enables seamless integration with the HubSpot Engagement Tasks API. The project focused on simplifying task creation, assignment, and management, ensuring efficient automation of CRM workflows.",
+      skills: [
+        "Ballerina",
+        "Postman",
+        "Api Design",
+      ],
+    },
+     {
+      id: 1,
+      img: "https://lh5.googleusercontent.com/proxy/LcYZthkTkOuQw6QhwJvw3dLYSHCGoavDrbbWV2LDMsLEIPOt7yc0cTzeEOwTHezUSBVvJdkPwa1pTsTFZCcbf9vgiLU7M8VvmcNiLDMLqaeriy25Ask",
+      role: "Ballearin Intergrator Web Extension",
+      company: "WSO2",
+      date: "March 2025 - July 2025",
+      desc: "Worked on developing a web extension for Ballerina Integrator, a low-code editor for Ballerina integration. The project focused on enhancing the development experience by providing seamless support for creating, editing, and managing integration workflows directly within the browser.",
+      skills: [
+        "Ballerina",
+        "Node js",
+        "Typescript",
+        "Ballerina Language Server"
+      ],
+    },
     {
       id: 0,
       img: "https://asset.brandfetch.io/idH8HrwKLB/idKshaXKkC.png",
@@ -220,6 +247,8 @@ export const Bio = {
       ],
      // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
     },
+    
+    
    
   ];
   
@@ -487,6 +516,17 @@ export const Bio = {
       tags: ["HTML", "CSS", "Python","Flask"],
       category: "machine learning",
       github: "https://github.com/ChathuraIshara/Laptop-price-predictor", 
+    },
+     {
+      id: 17,
+      title: "Ballerina Intergrator Web Extension",
+      date: "March 2025 - July 2025",
+      description:
+        "A web extension developed for Ballerina Integrator, a low-code editor for Ballerina integration. It enhances the development experience by providing seamless support for creating, editing, and managing integration workflows directly within the browser.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/biweb.jpeg",
+      tags: ["Ballearina", "Nodejs", "Typescript"],
+      github: "https://github.com/ChathuraIshara/vscode-extensions/tree/bi-web-open", 
     },
     
     
