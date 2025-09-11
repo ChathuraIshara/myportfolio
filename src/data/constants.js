@@ -530,16 +530,19 @@ export const Bio = {
       github: "https://github.com/ChathuraIshara/vscode-extensions/tree/bi-web-open", 
     },
      {
-      id: 18,
-      title: "Hubspot CRM Enagegement Tasks Connector(Ballerina)",
-      date: "FEb 2025 - March 2025",
+      id: 19,
+      title: "mytods Todo App",
+      date: "Sept 2025",
       description:
-        "The Ballerina HubSpot CRM Engagement Tasks Connector (ballerinax/hubspot.crm.engagement.tasks) enables seamless integration with the HubSpot Engagement Tasks API. It provides simplified functions to create, assign, and manage tasks, ensuring efficient task automation within your CRM.",
+        "MyTodos is a simple and user-friendly to-do list application that helps you manage daily tasks efficiently. It allows you to add new tasks, mark them as completed, and delete tasks when they’re no longer needed. To make sure your tasks don’t disappear after refreshing or closing the browser, the app uses local storage to save all your to-dos securely on your device.",
       image:
-        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ballerina.jpeg",
-      tags: ["Ballearina", "Api design"],
-      github: "https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.engagements.tasksn", 
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/mytodos.png",
+      tags: ["React", "Vite", "Tailwind", "LocalStorage", "Vercel","Typescript"],
+      github: "https://github.com/ChathuraIshara/mytodos-React-ts-tailwind-", 
+      category: "web app",
+      webapp: "https://mytodos-react-ts-tailwind.vercel.app/"   
     },
+
     
     
     
