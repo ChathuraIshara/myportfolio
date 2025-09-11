@@ -542,6 +542,19 @@ export const Bio = {
       category: "web app",
       webapp: "https://mytodos-react-ts-tailwind.vercel.app/"   
     },
+      {
+      id: 19,
+      title: "ai-resume-analyzer",
+      date: "Sept 2025",
+      description:
+        "AI-Resume-Analyzer is a web application that helps users improve their resumes by providing detailed analysis based on a given job title and description. Users can securely upload their resumes, and the system evaluates them to highlight strengths, weaknesses, and areas for improvement. The app uses Puter.js for authentication, file storage, and AI-powered features, while leveraging the Claude 3.7 Sonnet model to deliver accurate and insightful resume analysis.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/ai-resume-analyzer.png",
+      tags: ["React", "Vite", "Tailwind", "Puter.js", "Vercel","Typescript"],
+      github: "https://github.com/ChathuraIshara/ai-resume-analyzer", 
+      category: "web app",
+      webapp: "https://vercel.com/chathura-isharas-projects/ai-resume-analyzer"   
+    },
 
     
     
