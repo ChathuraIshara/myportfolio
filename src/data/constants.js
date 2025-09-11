@@ -164,7 +164,7 @@ export const Bio = {
         {
           name: "Cypress",
           image:
-          "https://www.cypress.io/_astro/navbar-brand.D87396b0.svg"
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfsmQoaIP_ZMmw30vcU8A8kho_CGWex8oww&s"
         },
         {
           name: "Figma",
