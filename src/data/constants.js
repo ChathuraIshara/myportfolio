@@ -553,7 +553,7 @@ export const Bio = {
       tags: ["React", "Vite", "Tailwind", "Puter.js", "Vercel","Typescript"],
       github: "https://github.com/ChathuraIshara/ai-resume-analyzer", 
       category: "web app",
-      webapp: "https://vercel.com/chathura-isharas-projects/ai-resume-analyzer"   
+      webapp: "https://ai-resume-analyzer-eight-theta.vercel.app/"   
     },
 
     
