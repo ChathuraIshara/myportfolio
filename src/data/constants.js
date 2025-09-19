@@ -555,6 +555,19 @@ export const Bio = {
       category: "web app",
       webapp: "https://ai-resume-analyzer-eight-theta.vercel.app/"   
     },
+     {
+      id: 21,
+      title: "Blogify",
+      date: "Aug 2025 - Sept 2025",
+      description:
+        "Blogify(Blog Classification App) is a full-stack web application where users can register, log in, and manage their blogs. After posting content, the app integrates a machine learning model that automatically predicts and assigns a category (e.g., sports, technology, lifestyle) to the blog. This helps users organize their blogs easily and improves content discovery.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/blogify.png",
+      tags: ["React", "Vite", "Tailwind", "Python","Flask","render","Express.js","Node", "Vercel","Javascript"],
+      github: "https://github.com/ChathuraIshara/mern-auth-blog", 
+      category: "web app",
+      webapp: "https://mern-auth-blog.vercel.app/"   
+    },
 
     
     
