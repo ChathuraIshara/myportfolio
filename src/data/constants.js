@@ -258,7 +258,7 @@ export const Bio = {
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT52I2opRdfVNGJBKCA-ZLadL_gFipwi_rtyQ&s",
       school: "University Of Moratuwa",
       date: "June 2022 - Current",
-      grade: "3.83 CGPA",
+      grade: "3.93 CGPA",
       desc: "I am currently pursuing a Bachelor of Science Honours in Information Technology at the University of Moratuwa, Sri Lanka. I have completed several semesters and have gained a solid foundation in courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I am actively involved in university projects and am passionate about developing my skills in the field of IT.",
       degree: "Bachelor of Science Honours in Information Technology",
     },
