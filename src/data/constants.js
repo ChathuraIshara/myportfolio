@@ -9,7 +9,7 @@ export const Bio = {
     "I am a driven and adaptable fullstack developer from Sri Lanka, always ready to embrace new challenges and continuously learn. My passion for coding and dedication to delivering high-quality results are complemented by a positive attitude and a growth mindset. I am committed to making meaningful contributions to any project I undertake, and I strive to achieve excellence in every endeavor.", 
     github: "https://github.com/ChathuraIshara",
     resume:
-      "https://drive.google.com/file/d/1QqowLOB3MbDoyU9KVZn3RPYhHlnH1Y00/view?usp=drive_link",
+      "https://drive.google.com/file/d/1VrJ_sxkhFyD4qvcRzGH7mCQzovv-m2Y8/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/chathura-ishara-480708271/",
     twitter: "",
     insta: "",
