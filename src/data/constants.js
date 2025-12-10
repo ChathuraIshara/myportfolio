@@ -568,6 +568,31 @@ export const Bio = {
       category: "web app",
       webapp: "https://mern-auth-blog.vercel.app/"   
     },
+     {
+      id: 22,
+      title: "SmartStudy",
+      date: "Dec 2025",
+      description:
+        "A web application designed to streamline the academic revision process using natural language processing. The platform allows users to upload lecture materials in PDF format and automatically extracts key information to generate structured study aids. Key features include automated text summarization, the creation of bulleted revision notes, and the generation of self-assessment tools like interactive quizzes and flashcards, helping users retain information more effectively..",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/smartstudy2.png",
+      tags: ["Next.js", "Typescript", "Tailwind", "Vercel"],
+      github: "https://github.com/ChathuraIshara/SmartStudy", 
+      category: "web app",
+      webapp: "https://smart-study-git-main-chathura-isharas-projects.vercel.app/"   
+    },
+     {
+      id: 22,
+      title: "MoraCarrom",
+      date: "Sep 2024 - Nov 2024",
+      description:
+        "MoraCarrom is a web application developed for the University of Moratuwa to streamline carom tournament management. It includes features like player registration, match scheduling, and player comparisons, offering an efficient and user-friendly experience for both players and organizers.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/carrom.jpeg",
+      tags: ["React.js", "Javascript", "Tailwind", "Appwrite", "Vercel"],
+      github: "https://github.com/ChathuraIshara/CarromApp", 
+      category: "web app", 
+    },
 
     
     
