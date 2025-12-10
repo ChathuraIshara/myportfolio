@@ -268,7 +268,7 @@ export const Bio = {
       school: "Central College,Kuliyapitiya",
       date: "Apr 2012 - August 2020",
       grade: "AAB",
-      desc: "I attended Central College Kuliyapitiya, where I studied in the science stream. My education there provided a strong foundation in subjects such as Physics, Chemistry, and Biology, preparing me well for my further studies in Information Technology.",
+      desc: "I studied in the science stream at Central College Kuliyapitiya, where I built a strong foundation in Physics, Combined Mathematics, and ICT. This academic background played a key role in shaping my interest in technology and prepared me well for pursuing higher studies in Information Technology.",
       degree: "Advanced Level(Science Stream)",
     },
   ];
@@ -593,12 +593,23 @@ export const Bio = {
       github: "https://github.com/ChathuraIshara/CarromApp", 
       category: "web app", 
     },
+     {
+      id: 22,
+      title: "Career-Counsiling-expert-system",
+      date: "OCT 2025",
+      description:
+        "This expert system is a Python-based career guidance tool that analyzes a user’s interests, skills, and personality to suggest suitable career paths. Using a rule-based engine, it provides the best matching career along with confidence levels and helpful skill-improvement tips, all through an easy Tkinter interface.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/expertsystem.png",
+      tags: ["Python", "Tkinter", "experta"],
+      github: "https://github.com/ChathuraIshara/Career_Counsiling_expert_system", 
+      category: "machine learning", 
+    },
+
 
     
     
-    
-    
-   
+
    
   ];
   
