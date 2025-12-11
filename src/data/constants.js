@@ -594,7 +594,7 @@ export const Bio = {
       category: "web app", 
     },
      {
-      id: 22,
+      id: 23,
       title: "Career-Counsiling-expert-system",
       date: "OCT 2025",
       description:
@@ -604,6 +604,18 @@ export const Bio = {
       tags: ["Python", "Tkinter", "experta"],
       github: "https://github.com/ChathuraIshara/Career_Counsiling_expert_system", 
       category: "machine learning", 
+    },
+    {
+      id: 24,
+      title: "Expense Tracker AI",
+      date: "DEC 2025",
+      description:
+        "A full-stack expense tracker web application built with Next.js, TypeScript, and PostgreSQL. Users can log expenses with categories and dates, visualize spending through interactive charts, and get AI-powered insights to understand their spending habits. Features include user authentication, real-time statistics, and a responsive dark/light theme UI.",
+      image:
+        "https://raw.githubusercontent.com/ChathuraIshara/myportfolio/main/src/images/expensetracker.png",
+      tags: ["Next.js", "Typescript", "PostgreSQL", "NeonDb", "Prisma", "OpenRoute", "Vercel"],
+      github: "https://github.com/ChathuraIshara/next-expense-tracker-ai", 
+      category: "web app", 
     },
 
 
